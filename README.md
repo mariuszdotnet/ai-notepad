@@ -1,6 +1,6 @@
 # AI Notes
 
-This is a collection of useful links to resoruces around AI.
+This is a collection of useful links to resources around AI.
 
 ## Articles and Blogs
 
@@ -10,7 +10,7 @@ This is a collection of useful links to resoruces around AI.
 
 ## Code Samples and Repos
 
-* Multi-Channel RAG Achitecture
+* Multi-Channel RAG Architecture
   * [pablomarin/GPT-Azure-Search-Engine: Azure Cognitive Search + Azure OpenAI Accelerator (github.com)](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 
 ## Videos
