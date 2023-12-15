@@ -11,13 +11,13 @@ This is a collection of useful links to resources around AI.
 ## Code Samples and Repos
 
 * Multi-Channel RAG Architecture
-  * [pablomarin/GPT-Azure-Search-Engine: Azure Cognitive Search + Azure OpenAI Accelerator (github.com)](https://github.com/pablomarin/GPT-Azure-Search-Engine)
+  * [pablomarin/GPT-Azure-Search-Engine: Azure Cognitive Search + Azure OpenAI Accelerator](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 
 ## Videos
 
 * GitHub Copilot and AI for Developers: Potential and Pitfalls - Scott Hanselman
   * [GitHub Copilot and AI for Developers: Potential and Pitfalls - Scott Hanselman](https://www.youtube.com/watch?v=5pbPLHYB6-0&t=1306s)
 * AI: Superhero or super villain? - Scott Hanselman
-  * [AI: Superhero or super villain? (youtube.com)](https://www.youtube.com/watch?v=1TlI8lduPTE&t=4s)
+  * [AI: Superhero or super villain?](https://www.youtube.com/watch?v=1TlI8lduPTE&t=4s)
 * RAG, semantic search, embedding, vector - John Savill
   * [RAG, semantic search, embedding, vector, etc...](https://www.youtube.com/watch?v=orLGv2LgWDE&t=6s)
