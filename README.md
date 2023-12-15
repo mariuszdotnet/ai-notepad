@@ -21,3 +21,5 @@ This is a collection of useful links to resources around AI.
   * [AI: Superhero or super villain?](https://www.youtube.com/watch?v=1TlI8lduPTE&t=4s)
 * RAG, semantic search, embedding, vector - John Savill
   * [RAG, semantic search, embedding, vector, etc...](https://www.youtube.com/watch?v=orLGv2LgWDE&t=6s)
+* Vector Search with Azure Cosmos DB, Azure Cognitive Search, and Azure OpenAI
+  * [Vector Search with Azure Cosmos DB, Azure Cognitive Search, and Azure OpenAI](https://www.youtube.com/watch?v=5z32NS4IG0w)
