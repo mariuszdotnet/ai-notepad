@@ -16,8 +16,8 @@ This is a collection of useful links to resources around AI.
 ## Videos
 
 * GitHub Copilot and AI for Developers: Potential and Pitfalls - Scott Hanselman
-  * [GitHub Copilot and AI for Developers: Potential and Pitfalls with Scott Hanselman | BRK231H (youtube.com)](https://www.youtube.com/watch?v=5pbPLHYB6-0&t=1306s)
+  * [GitHub Copilot and AI for Developers: Potential and Pitfalls - Scott Hanselman](https://www.youtube.com/watch?v=5pbPLHYB6-0&t=1306s)
 * AI: Superhero or super villain? - Scott Hanselman
   * [AI: Superhero or super villain? (youtube.com)](https://www.youtube.com/watch?v=1TlI8lduPTE&t=4s)
 * RAG, semantic search, embedding, vector - John Savill
-  * [RAG, semantic search, embedding, vector... Find out what the terms used with Generative AI mean! - YouTube](https://www.youtube.com/watch?v=orLGv2LgWDE&t=6s)
+  * [RAG, semantic search, embedding, vector, etc...](https://www.youtube.com/watch?v=orLGv2LgWDE&t=6s)
