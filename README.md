@@ -10,13 +10,20 @@ This is a collection of useful links to resources around AI.
 * Semantic Kernel Cookbook
 
   * [Dive into the World of AI with the Semantic Kernel Cookbook](https://techcommunity.microsoft.com/t5/educator-developer-blog/dive-into-the-world-of-ai-with-the-semantic-kernel-cookbook/ba-p/4032668)
+* PTU Consumption Patterns for GPT
+
+  * [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
+* Enable GPT failover with Azure OpenAI and Azure API
+
+  * [Enable GPT failover with Azure OpenAI and Azure API](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/enable-gpt-failover-with-azure-openai-and-azure-api-management/ba-p/4038233)
 
 ## Code Samples and Repos
 
 * Multi-Channel RAG Architecture
   * [pablomarin/GPT-Azure-Search-Engine: Azure Cognitive Search + Azure OpenAI Accelerator](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 * Azure Cosmos DB Vector Search with OpenAI API - Python
-  * [Azure Cosmos DB Vector Search with OpenAI API](https://github.com/cjoakim/azure-cosmos-db-vector-search-openai-python) 
+  * [Azure Cosmos DB Vector Search with OpenAI API](https://github.com/cjoakim/azure-cosmos-db-vector-search-openai-python)
+
 ## Videos
 
 * GitHub Copilot and AI for Developers: Potential and Pitfalls - Scott Hanselman
