@@ -19,6 +19,8 @@ This is a collection of useful links to resources around AI.
 
 ## Code Samples and Repos
 
+* Sample Chat App with AOAI
+  * [Sample code for a simple chat webapp that integrates with Azure OpenAI](https://github.com/microsoft/sample-app-aoai-chatGPT)
 * Multi-Channel RAG Architecture
   * [pablomarin/GPT-Azure-Search-Engine: Azure Cognitive Search + Azure OpenAI Accelerator](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 * Azure Cosmos DB Vector Search with OpenAI API - Python
