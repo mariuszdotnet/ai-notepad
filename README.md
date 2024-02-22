@@ -16,6 +16,9 @@ This is a collection of useful links to resources around AI.
 * Enable GPT failover with Azure OpenAI and Azure API
 
   * [Enable GPT failover with Azure OpenAI and Azure API](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/enable-gpt-failover-with-azure-openai-and-azure-api-management/ba-p/4038233)
+* Azure OpenAI as a central capability with Azure API Management
+
+  * [Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai?tab=readme-ov-file)
 
 ## Code Samples and Repos
 
