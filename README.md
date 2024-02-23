@@ -19,6 +19,9 @@ This is a collection of useful links to resources around AI.
 * Azure OpenAI as a central capability with Azure API Management
 
   * [Azure OpenAI as a central capability with Azure API Management](https://github.com/Azure/enterprise-azureai?tab=readme-ov-file)
+* A code-first experience for building a copilot with Azure AI
+
+  * [A code-first experience for building a copilot with Azure AI](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/a-code-first-experience-for-building-a-copilot-with-azure-ai/ba-p/4058659)
 
 ## Code Samples and Repos
 
