@@ -31,6 +31,8 @@ This is a collection of useful links to resources around AI.
   * [pablomarin/GPT-Azure-Search-Engine: Azure Cognitive Search + Azure OpenAI Accelerator](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 * Azure Cosmos DB Vector Search with OpenAI API - Python
   * [Azure Cosmos DB Vector Search with OpenAI API](https://github.com/cjoakim/azure-cosmos-db-vector-search-openai-python)
+* Azure AI Samples
+  * [Azure AI Samples](https://github.com/azure-samples/azureai-samples)
 
 ## Videos
 
