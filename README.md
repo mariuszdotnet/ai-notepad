@@ -22,7 +22,9 @@ This is a collection of useful links to resources around AI.
 * A code-first experience for building a copilot with Azure AI
 
   * [A code-first experience for building a copilot with Azure AI](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/a-code-first-experience-for-building-a-copilot-with-azure-ai/ba-p/4058659)
-
+* Fine Tuning with Function Calling on Azure OpenAI Service
+  * [Fine Tuning with Function Calling on Azure OpenAI Service]{https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-with-function-calling-on-azure-openai-service/ba-p/4065968}
+ 
 ## Code Samples and Repos
 
 * Sample Chat App with AOAI
