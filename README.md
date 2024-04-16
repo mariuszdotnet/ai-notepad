@@ -19,7 +19,9 @@ This is a collection of useful links to resources around AI.
 * Fine Tuning with Function Calling on Azure OpenAI Service
   * [Fine Tuning with Function Calling on Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-with-function-calling-on-azure-openai-service/ba-p/4065968)
 * RAFT: A new way to teach LLMs to be better at RAG
-  * [RAFT:A new way to teach LLMs to be better at RAG](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674) 
+  * [RAFT:A new way to teach LLMs to be better at RAG](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
+* Access Control in Generative AI applications with Azure AI Search
+  * [Access Control in Generative AI applications with Azure AI Search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/access-control-in-generative-ai-applications-with-azure-ai/ba-p/3956408) 
  
 ## Code Samples and Repos
 
