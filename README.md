@@ -21,10 +21,12 @@ This is a collection of useful links to resources around AI.
 * RAFT: A new way to teach LLMs to be better at RAG
   * [RAFT:A new way to teach LLMs to be better at RAG](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
 * Access Control in Generative AI applications with Azure AI Search
-  * [Access Control in Generative AI applications with Azure AI Search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/access-control-in-generative-ai-applications-with-azure-ai/ba-p/3956408) 
- 
+  * [Access Control in Generative AI applications with Azure AI Search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/access-control-in-generative-ai-applications-with-azure-ai/ba-p/3956408)
+
 ## Code Samples and Repos
 
+* APIM AI Gateway
+  * [Patterns for APIM as AI Gateway](https://github.com/Azure-Samples/AI-Gateway)
 * Sample Chat App with AOAI
   * [Sample code for a simple chat webapp that integrates with Azure OpenAI](https://github.com/microsoft/sample-app-aoai-chatGPT)
 * Multi-Channel RAG Architecture
