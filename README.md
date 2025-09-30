@@ -5,7 +5,7 @@ This is a collection of useful links to resources around AI.
 ## Articles and Blogs
 
 * Multi-agent Reference Architecture
-  *[Multi-agent Reference Architecture](https://microsoft.github.io/multi-agent-reference-architecture/)
+  * [Multi-agent Reference Architecture](https://microsoft.github.io/multi-agent-reference-architecture/)
 * Grounding LLMs, RAG etc.
   * [Grounding LLMs - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857#:~:text=What%20is%20Grounding%3F,relevance%20of%20the%20generated%20output.)
 * Semantic Kernel Cookbook
