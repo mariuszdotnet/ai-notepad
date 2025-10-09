@@ -26,6 +26,10 @@ This is a collection of useful links to resources around AI.
   * [RAFT:A new way to teach LLMs to be better at RAG](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
 * Access Control in Generative AI applications with Azure AI Search
   * [Access Control in Generative AI applications with Azure AI Search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/access-control-in-generative-ai-applications-with-azure-ai/ba-p/3956408)
+* GitHub Copilot Best Practices
+  * [Best practices for using GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot)
+* Prompt Engineering Guide
+  * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 ## Code Samples and Repos
 
@@ -39,6 +43,18 @@ This is a collection of useful links to resources around AI.
   * [Azure Cosmos DB Vector Search with OpenAI API](https://github.com/cjoakim/azure-cosmos-db-vector-search-openai-python)
 * Azure AI Samples
   * [Azure AI Samples](https://github.com/azure-samples/azureai-samples)
+
+## AI Development Tools
+
+* GitHub Copilot
+  * [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
+  * [GitHub Copilot for Business](https://github.com/features/copilot)
+* Semantic Kernel
+  * [Semantic Kernel - GitHub](https://github.com/microsoft/semantic-kernel)
+* LangChain
+  * [LangChain Documentation](https://python.langchain.com/)
+* Azure AI Studio
+  * [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio)
 
 ## Videos
 
