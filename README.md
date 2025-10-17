@@ -30,6 +30,8 @@ This is a collection of useful links to resources around AI.
   * [Best practices for using GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot)
 * Prompt Engineering Guide
   * [Prompt Engineering Guide](https://www.promptingguide.ai/)
+* HAX Toolkit AI Guidelines
+  * [HAX Toolkit AI Guidelines](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/)
 
 ## Code Samples and Repos
 
