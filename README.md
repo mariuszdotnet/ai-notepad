@@ -6,6 +6,8 @@ This is a collection of useful links to resources around AI.
 
 * Building effective agents
   * [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) 
+* Microservices Guide
+  * [Microservices Guide](https://martinfowler.com/microservices/)
 * Multi-agent Reference Architecture
   * [Multi-agent Reference Architecture](https://microsoft.github.io/multi-agent-reference-architecture/)
 * Grounding LLMs, RAG etc.
