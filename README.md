@@ -34,6 +34,8 @@ This is a collection of useful links to resources around AI.
   * [HAX Toolkit AI Guidelines](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/)
 * Spec Driven Development
   * [Spec Driven Development](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+* Serverless Architectures
+  * [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 
 ## Code Samples and Repos
 
