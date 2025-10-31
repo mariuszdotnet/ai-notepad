@@ -61,6 +61,8 @@ This is a collection of useful links to resources around AI.
   * [LangChain Documentation](https://python.langchain.com/)
 * Azure AI Studio
   * [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio)
+* Transformer Explainer
+  * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
 ## Videos
 
