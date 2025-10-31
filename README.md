@@ -52,15 +52,15 @@ This is a collection of useful links to resources around AI.
 
 ## AI Development Tools
 
+* Azure AI Studio
+  * [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio)
 * GitHub Copilot
   * [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
   * [GitHub Copilot for Business](https://github.com/features/copilot)
-* Semantic Kernel
-  * [Semantic Kernel - GitHub](https://github.com/microsoft/semantic-kernel)
 * LangChain
   * [LangChain Documentation](https://python.langchain.com/)
-* Azure AI Studio
-  * [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio)
+* Semantic Kernel
+  * [Semantic Kernel - GitHub](https://github.com/microsoft/semantic-kernel)
 * Transformer Explainer
   * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
